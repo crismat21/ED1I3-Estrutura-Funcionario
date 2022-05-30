@@ -10,6 +10,7 @@ Incluir
 Excluir
 Pesquisar
 Listar OBSERVAÇÕES:
+
 a) Não poderão ser cadastrados funcionários com mesmo prontuário;
 
 b) A pesquisa de funcionário deverá utilizar o atributo "Prontuário" como critério e, quando encontrado, deverão ser exibidos os demais atributos;
